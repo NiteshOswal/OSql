@@ -1,0 +1,31 @@
+{
+  "name": "osql",
+  "version": "1.0.0",
+  "description": "The most awesome server monitoring tool that uses SQL for system leel abstractions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiteshOswal/OSql.git"
+  },
+  "keywords": [
+    "SQL",
+    "Server",
+    "Monitoring",
+    "Nodejs",
+    "JISON",
+    "Interpreter",
+    "APIs"
+  ],
+  "author": "Nitesh Oswal, Ranjan Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NiteshOswal/OSql/issues"
+  },
+  "homepage": "https://github.com/NiteshOswal/OSql#readme",
+  "dependencies": {
+    "pegjs": "^0.9.0"
+  }
+}
